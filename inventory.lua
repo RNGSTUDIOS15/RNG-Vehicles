@@ -4,7 +4,6 @@ local cfg = {}
 cfg.default_vehicle_chest_weight = 30
 
 cfg.vehicle_chest_weights = {
-    ["demonhawkk"] = 1000,
     ["m977l"] = 200,
     ["m977t"] = 200,
     ["kamaz6396"] = 200,
